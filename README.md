@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PancakeHopper
+- 👀 I’m interested in CC+ And JavaScript.
+- 🌱 I’m currently learning JavaScript.
